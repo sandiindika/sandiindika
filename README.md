@@ -1,6 +1,6 @@
 # Haii, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi, I'm interested in discussing things related to web development, data scientists, and of course python programming.
+I like working with new tools and technologies.
 
 ## &#x1f4c8; GitHub Stats
 
