@@ -6,9 +6,6 @@ I like working with new tools and technologies.
   <img src="https://komarev.com/ghpvc/?username=sandiindika&label=Profile%20views&color=0e75b6&style=flat" alt="sandiindika" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandiindika" alt="sandiindika" /></a>
-</p>
 
 ## GitHub Stats
 
