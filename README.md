@@ -2,11 +2,31 @@
 
 I like working with new tools and technologies.
 
-## &#x1f4c8; GitHub Stats
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sandiindika&label=Profile%20views&color=0e75b6&style=flat" alt="sandiindika" />
+</p>
 
-<a href="https://github.com/sandiindika/sandiindika">
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandiindika" alt="sandiindika" /></a>
+</p>
+
+## GitHub Stats
+
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandiindika&layout=donut&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&langs_count=5&card_width=320" />
-</a>
-<a href="https://github.com/sandiindika/sandiindika">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandiindika&rank_icon=github&include_all_commits=true" alt="Sandi's GitHub Stats" />
-</a>
+</p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sandiindika&rank_icon=github&include_all_commits=true" alt="Sandi's GitHub Stats" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandiindika&" alt="sandiindika" />
+</p>
+
+## Social
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ndisan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ndisan/" height="30" width="40" /></a>
+  <a href="https://suryaeceran.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://suryaeceran.hashnode.dev/" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/ndisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ndisan" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/ndisans__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ndisans__/" height="30" width="40" /></a>
+</p>
