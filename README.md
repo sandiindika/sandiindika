@@ -13,7 +13,7 @@ I like working with new tools and technologies.
 
 <p>
   <a href="https://github.com/sandiindika">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=sandiindika&rank_icon=github&include_all_commits=true" alt="Sandi's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandiindika&rank_icon=github&include_all_commits=true" alt="Sandi's GitHub Stats" />
   </a>
 </p>
 <p>
