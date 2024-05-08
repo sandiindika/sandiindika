@@ -52,9 +52,13 @@ At the moment, I'm immersing myself in the field of web development, primarily f
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandiindika&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 
-[![views](https://komarev.com/ghpvc/?username=sandiindika&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sandiindika/sandiindika)
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandiindika&style=for-the-badge&color=orange" alt=""/>
+</div>
 
-## Social
+### Social
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=linkedin&logoColor=white)](https://t.me/sam_gyps)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ndisan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ndisan/" height="30" width="40" /></a>
