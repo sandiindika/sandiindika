@@ -58,7 +58,7 @@ At the moment, I'm immersing myself in the field of web development, primarily f
 
 ### Social
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=linkedin&logoColor=white)](https://t.me/sam_gyps)
+[![LinkeIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndisan/)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ndisan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ndisan/" height="30" width="40" /></a>
