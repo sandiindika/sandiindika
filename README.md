@@ -58,6 +58,6 @@ At the moment, I'm immersing myself in the field of web development, primarily f
 
 ### Social
 
-[![LinkeIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndisan/)
-[![Hashnode Badge](https://img.shields.io/badge/Hashnode-blue?style=flat&logo=hashnode&logoColor=white)](https://suryaeceran.hashnode.dev/)
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/ndisan)
+[![LinkeIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndisan/)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white)](https://suryaeceran.hashnode.dev/)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ndisan)
