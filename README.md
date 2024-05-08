@@ -2,23 +2,23 @@
 
 I like working with new tools and technologies.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sandiindika&label=Profile%20views&color=0e75b6&style=flat" alt="sandiindika" />
-</p>
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandiindika" alt="sandiindika" /></a>
-</p>
+An individual with a robust skill set in programming and data analysis, specializing in predictive analytics utilizing an array of deep learning models. I hold a strong foundation in classical machine learning techniques and boast a keen aptitude for mathematical concepts. Furthermore, I have achieved notable success in employing ensemble learning techniques, as well as harnessing swarm intelligence models. I excel in addressing regression challenges and delving into the intriguing domain of reinforcement learning (RL).
 
-## GitHub Stats
+At the moment, I'm immersing myself in the field of web development, primarily focusing on front-end frameworks like React, Express, and Vue. Additionally, during my free time, I dedicate myself to enhancing my skills on HackerRank, Kaggle, and writing code snippets which I upload on GitHub. Moreover, I enjoy writing blog posts, which I publish on Hashnode.
 
-<a href="https://github.com/sandiindika/sandiindika">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandiindika&layout=donut&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&langs_count=5&card_width=320" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandiindika&rank_icon=github&include_all_commits=true" alt="Sandi's GitHub Stats" />
-</a>
-<p></p>
-<a href="https://github.com/sandiindika/sandiindika">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandiindika&" alt="sandiindika" />
-</a>
+[![views](https://komarev.com/ghpvc/?username=sandiindika&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sandiindika/sandiindika)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sandiindika&title=Experience,Stars,Followers,Commits,Repositories,MultipleLang,PillRequest,Issues&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Languages and Tools
+<div>
+
+### Languages:
+| Python3 | Java | JS |
+|---|---|---|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript"  alt="Javascript" width="55" height="55"/> |
+
+</div>
 
 ## Social
 
