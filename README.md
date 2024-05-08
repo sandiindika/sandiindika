@@ -59,10 +59,5 @@ At the moment, I'm immersing myself in the field of web development, primarily f
 ### Social
 
 [![LinkeIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndisan/)
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ndisan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ndisan/" height="30" width="40" /></a>
-  <a href="https://suryaeceran.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://suryaeceran.hashnode.dev/" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/ndisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ndisan" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/ndisans__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ndisans__/" height="30" width="40" /></a>
-</p>
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-blue?style=flat&logo=hashnode&logoColor=white)](https://suryaeceran.hashnode.dev/)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/ndisan)
