@@ -6,7 +6,7 @@ An individual with a robust skill set in programming and data analysis, speciali
 
 At the moment, I'm immersing myself in the field of web development, primarily focusing on front-end frameworks like React, Express, and Vue. Additionally, during my free time, I dedicate myself to enhancing my skills on HackerRank, Kaggle, and writing code snippets which I upload on GitHub. Moreover, I enjoy writing blog posts, which I publish on Hashnode.
 
-[![views](https://komarev.com/ghpvc/?username=sandiindika&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sandiindika/sandiindika)
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sandiindika&title=Experience,Stars,Followers,Commits,Repositories,MultipleLang,PillRequest,Issues&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -38,6 +38,21 @@ At the moment, I'm immersing myself in the field of web development, primarily f
 | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> |
 
 </div>
+
+---
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sandiindika&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+---
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sandiindika&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandiindika&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
+
+[![views](https://komarev.com/ghpvc/?username=sandiindika&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sandiindika/sandiindika)
 
 ## Social
 
