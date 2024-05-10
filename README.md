@@ -48,7 +48,7 @@ At the moment, I'm immersing myself in the field of web development, primarily f
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sandiindika&show_icons=true&include_all_commits=true&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sandiindika&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandiindika&size_weight=0.2&count_weight=0.5&layout=compact&card_width=350&theme=vision-friendly-dark">
 </p>
 
