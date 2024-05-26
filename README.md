@@ -8,7 +8,7 @@ At the moment, I'm immersing myself in the field of web development, primarily f
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sandiindika&title=Experience,Stars,Followers,Commits,Repositories,MultipleLang,PillRequest,Issues&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sandiindika&title=Experience,Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Languages and Tools
 <div>
