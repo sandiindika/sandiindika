@@ -27,7 +27,7 @@ At the moment, I'm immersing myself in the field of web development, primarily f
 
 ### Development Tools and Others
 
-| NodeJS | Git | Docker | Apache Maven |
+| NodeJS | Git | Docker | Maven |
 |---|---|---|---|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Apache Maven" alt="Apache Maven" width="55" height="55"/> |
 
