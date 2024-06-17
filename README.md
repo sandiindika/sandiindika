@@ -19,17 +19,23 @@ At the moment, I'm immersing myself in the field of web development, primarily f
 |---|---|---|---|---|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript"  alt="Javascript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="55" height="55"/> |
 
-### Database Management Systems
+<!-- C#, Go, Kotlin -->
+
+### Database Management Systems:
 
 | SQLite | MySQL | PostgreSQL |
 |---|---|---|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> |
 
-### Development Tools and Others
+<!-- Microsoft SQL Server, Oracle, MongoDB, Redis -->
 
-| NodeJS | Git | Docker | Maven |
-|---|---|---|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Apache Maven" alt="Apache Maven" width="55" height="55"/> |
+### Development Tools and Others:
+
+| NodeJS | Git | Docker | Maven | Visual Studio | IntelliJ IDEA |
+|---|---|---|---|---|---|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Apache Maven" alt="Apache Maven" width="55" height="55"/> | | <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="55" height="55"/> |
+
+<!-- Jenkins (CI/CD Tool) -->
 
 </div>
 
